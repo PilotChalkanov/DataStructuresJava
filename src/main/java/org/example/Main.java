@@ -13,8 +13,15 @@ public class Main {
         myHashTable.set("brother", 5);
         myHashTable.set("gutter", 7);
         myHashTable.set("albano", 1);
+        myHashTable.set("germano", 1);
+        myHashTable.set("mexicano", 1);
+        myHashTable.set("test1", 1);
+        myHashTable.set("test2", 1);
+        myHashTable.set("test3", 1);
+        myHashTable.set("test4", 1);
+        myHashTable.set("test5", 1);
         System.out.println(myHashTable.get("nails"));
-        System.out.println(myHashTable.get("nails"));
+        System.out.println(myHashTable.get("mexicano"));
 
 
     }
